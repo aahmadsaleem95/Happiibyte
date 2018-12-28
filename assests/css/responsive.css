@@ -1,0 +1,250 @@
+/*320px to 480px for  mobile devices*/
+/*index page responsive*/
+/*@media only screen and (min-width: 320px) and (max-width: 480px) {
+.navbar-fixed-top{
+	position: fixed !important;
+}
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+#head{
+	width: 116%;
+}
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+.bg-2{
+	width: 116%;
+}
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+.bg-3{
+	width: 116%;
+}
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+.bg_4 {
+	width: 116%;
+}
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+.bg-6 {
+	width: 116%;
+}
+}*/
+
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.bg-2 p{
+	font-size: 16px !important;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.servers{
+	background: none !important;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.rol{
+	background: none !important;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.bg-3  .col-xs-6 {
+	width: 100%;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.bg-5  .col-xs-6 {
+	width: 100%;
+	
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.bg-5 .min_blog h6 {
+	padding:1.5em !important;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.block3 {
+	min-height: 100% !important;
+    height: 100% !important;
+    
+}
+}
+
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.footer1 .widget-title{
+	margin-top: 0em !important;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.footer1 .widget{
+	text-align: center;
+}
+}
+
+/*career page css responsive*/
+/*320-480px*/
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+#head-career{
+        padding-top: 120px !important;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.bg-careerr .career-he{
+    font-size: 24px;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.bg-careerr .packages-offers{
+    width: 90%;
+    margin: 30px 12px 30px 16px;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+ .career-row2{
+    padding: 0px 0 50px 0 !important;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+ .career-row4{
+    padding: 0px 0 50px 0 !important;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+ .carrer-2-img{
+    margin-top: 20px;
+}
+}
+/*packages page css*/
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.packages-bg6 h2{
+    width: 90% !important;
+    font-size: 22px !important;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+#head-packages{ 
+	padding-top: 120px !important;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+#head-packages .lead{
+	font-size: 38px !important;
+}
+}
+/*resources page css responsive*/
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.resources-careerr .resource-img1{
+    padding: 40px 35px;
+}
+}
+/*services page css responsive*/
+ @media only screen and (min-width: 240px) and (max-width: 480px) {
+.bg-services  .service-pr{
+    margin: 0;
+}
+}
+ @media only screen and (min-width: 240px) and (max-width: 480px) {
+.bg-services  .service-row{
+    padding: 40px 0 0 0;
+}
+}
+ @media only screen and (min-width: 240px) and (max-width: 480px) {
+.bg-services  .service-row2{
+    padding: 0px 0 60px;
+}
+}
+ @media only screen and (min-width: 240px) and (max-width: 480px) {
+.bg-services  .service-row4{
+    padding: 0px 0 30px 0;
+}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+.service-pl {
+    text-align: left !important;
+}
+}
+/*480-767*/
+/*services page*/
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+.service-pr{
+    margin: 0 !important;
+}
+}
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+.service-row{
+        padding: 30px 0 0 0 !important;
+}
+}
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+.service-row2{
+        padding: 30px 0 30px 0 !important;
+}
+}
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+.service-row4{
+        padding: 30px 0 50px 0 !important;
+}
+}
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+#for-tablet{
+        width: 50% ;
+}
+}
+/*768-991*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.contact-btm{
+        margin-top:-302px !important;
+}
+}
+/*packages page css*/
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+.packages-offers{
+        width: 80% !important;
+    margin: 20px 48px !important;
+}
+}
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+.packages-bg6 h2{
+        width: 90%  !important;
+    
+}
+}
+/*resources page*/
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+.resource-img1 img{
+        width: 100%  ;
+    
+}
+}
+/*career page*/
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+.career-row2{
+            padding: 30px 0 !important;
+    
+}
+}
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+.service-pl{
+            text-align: left !important;
+    
+}
+}
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+.career-row4{
+            padding: 30px 0 50px 0 !important;
+    
+}
+}
+/*index page*/
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+.min_blog h6{
+            padding: 1.5em !important;
+    
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+#home-blog{
+            margin-top: 45px;
+    
+}
+}
